@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sONtES</string>
+    <string name="welcome_message">Hoş geldiniz!</string>
+    <string name="goodbye_message">Güle güle!</string>
+    <string name="error_message">Bir hata oluştu. Lütfen tekrar deneyin.</string>
+</resources>
